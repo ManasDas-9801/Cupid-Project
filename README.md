@@ -1,6 +1,6 @@
 # Cupid-Project
 This is a dummy project
-composer install
+composer install/update
 npm install && npm run dev
 php artisan migrate
 
